@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Sample Lines and Points</name>
+    <Placemark>
+      <name>Transmission Line 1</name>
+      <LineString>
+        <coordinates>
+          77.5946,12.9716,0
+          77.5986,12.9756,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Waypoint Station</name>
+      <Point>
+        <coordinates>
+          77.5946,12.9716,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
