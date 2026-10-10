@@ -503,5 +503,3 @@ This project aligns directly with AEREO's core focus on enterprise geospatial in
 
 ---
 
-### 25. What would you improve in production?
-Add PostGIS geometry columns, S3 storage, Celery background queues, Prometheus metrics, and rate-limiting middleware.
